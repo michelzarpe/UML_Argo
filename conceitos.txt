@@ -18,3 +18,18 @@ Quando uma classe depende de outra
 A circunferencia depende to MAth onde tem o valor de PI
 circunferencia ----> math
 cliente (circunferencia) -------> fornecedor (math)
+
+
+------ Diagrama pacotes
+*** organizar agrupando por pacotes
+
+------- Diagrama de atividade
+*** grafico de fluxo, mostra o fluxo de controle de uma atividade para a outra.
+
+-------- Diagrama de Interação (Sequencia e Colaboracao)
+interacao formada por um conjunto de objetos e seus relacionamentos
+1 -> Diagrama de Sequencia: Ordenacao temporal de mensagens
+2 -> Diagrama de Colaboracao: colaboracao entre os objetos
+
+
+
