@@ -1,0 +1,3 @@
+O cliente pode pesquisar e visualizar os produtos da loja online sem precisar estar registrado no site da loja; inclusive ele pode adicionar os produtos desejados na cesta de compras;
+
+Par fazer o checkout (finalizar a compra), o cliente precisa estar cadastrado e logado no sistema da loja

@@ -1,0 +1,20 @@
+RELACIONAMENTO ENTRE CLASSES
+Herança -----|>
+*** normal como um classe erda da outra
+
+agregacao  <>-------
+funcionario está agregado ao departamento, caso o departamento deixe de existir os funcionarios ainda existiram e iram para outro departamento
+departamento <>---------funcionario
+
+Composicao <pintado>-------
+alto grau de coesao, caso o relacionamento deixe de existir os objetos de ambas as classes deixaram de existir
+pedido <pintado>------------ ItemDoPedido
+
+associacao ------ ou ------> ou <---------
+*** associacao é o relacionamento entre as classes
+
+Dependencia - - - - > (tracejado mesmo)
+Quando uma classe depende de outra
+A circunferencia depende to MAth onde tem o valor de PI
+circunferencia ----> math
+cliente (circunferencia) -------> fornecedor (math)
